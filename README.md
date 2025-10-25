@@ -24,8 +24,8 @@ Check out the live demo here:
 ## Screenshot
 
 ![Weather App Screenshot](Colombo.png)  
-(Galle.png)
-(Paris.png)
+![Weather App Screenshot](Galle.png)
+![Weather App Screenshot](Paris.png)
 
 
 ---
