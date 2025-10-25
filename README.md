@@ -7,7 +7,7 @@ A simple, responsive weather application that displays the current weather for a
 ## Demo
 
 Check out the live demo here:  
-`https://<your-username>.github.io/weather-app/`  
+` https://raaid-shaheer.github.io/WeatherApp/`  
 
 ---
 
@@ -24,6 +24,8 @@ Check out the live demo here:
 ## Screenshot
 
 ![Weather App Screenshot](Colombo.png)  
+(Galle.png)
+(Paris.png)
 
 
 ---
